@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title>Jamanda Recipes</title>
     <subtitle>Jake &amp; Amandas website to share their recipes</subtitle>
-    <link rel="self" type="application/atom+xml" href="https://retailrng.com/atom.xml"/>
-    <link rel="alternate" type="text/html" href="https://retailrng.com/"/>
+    <link rel="self" type="application/atom+xml" href="https://jamandarecipes.github.io/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://jamandarecipes.github.io"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
     <updated>2025-03-24T09:19:42+00:00</updated>
-    <id>https://retailrng.com/atom.xml</id>
+    <id>https://jamandarecipes.github.io/atom.xml</id>
     <entry xml:lang="en">
         <title>Using Gen 3s Unused Flash Memory Section</title>
         <published>2025-03-24T09:19:42+00:00</published>
@@ -20,10 +20,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://retailrng.com/article/gen3sunusedflashmemorysection/"/>
-        <id>https://retailrng.com/article/gen3sunusedflashmemorysection/</id>
+        <link rel="alternate" type="text/html" href="https://jamandarecipes.github.io/article/gen3sunusedflashmemorysection/"/>
+        <id>https://jamandarecipes.github.io/article/gen3sunusedflashmemorysection/</id>
         
-        <content type="html" xml:base="https://retailrng.com/article/gen3sunusedflashmemorysection/">&lt;p&gt;A big issue I had with my original E-Reader events was space. I did not have enough of it!&lt;&#x2F;p&gt;
+        <content type="html" xml:base="https://jamandarecipes.github.io/article/gen3sunusedflashmemorysection/">&lt;p&gt;A big issue I had with my original E-Reader events was space. I did not have enough of it!&lt;&#x2F;p&gt;
 &lt;p&gt;The gen 3 games have a few defined spaces in the players save file for info obtained externally. &lt;&#x2F;p&gt;
 &lt;p&gt;These are things like secret bases from other players, other players battle tower teams, and yes, information from the E-Reader.&lt;&#x2F;p&gt;
 &lt;p&gt;The space defined for the Eon Ticket, specifically, is called RamScript. It’s 995 bytes in size. &lt;&#x2F;p&gt;
@@ -407,10 +407,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://retailrng.com/Breads/Pizza/pizza/"/>
-        <id>https://retailrng.com/Breads/Pizza/pizza/</id>
+        <link rel="alternate" type="text/html" href="https://jamandarecipes.github.io/Breads/Pizza/pizza/"/>
+        <id>https://jamandarecipes.github.io/Breads/Pizza/pizza/</id>
         
-        <content type="html" xml:base="https://retailrng.com/Breads/Pizza/pizza/">&lt;center&gt;&lt;img class=&quot;myImages&quot; id=&quot;myImg&quot; src=&quot;&#x2F;Breads&#x2F;Pizza&#x2F;pestopizza.png&quot; alt=&quot;pesto pizza from summer 2025&quot; width=&quot;50%&quot;&gt;&lt;&#x2F;center&gt;
+        <content type="html" xml:base="https://jamandarecipes.github.io/Breads/Pizza/pizza/">&lt;center&gt;&lt;img class=&quot;myImages&quot; id=&quot;myImg&quot; src=&quot;&#x2F;Breads&#x2F;Pizza&#x2F;pestopizza.png&quot; alt=&quot;pesto pizza from summer 2025&quot; width=&quot;50%&quot;&gt;&lt;&#x2F;center&gt;
 &lt;h2 id=&quot;ingredients&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#ingredients&quot; aria-label=&quot;Anchor link for: ingredients&quot;&gt;Ingredients&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;span class=&quot;ingredient&quot;&gt;110&lt;&#x2F;span&gt;g sourdough starter.&lt;&#x2F;li&gt;
@@ -473,10 +473,10 @@ Change Portion Size
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://retailrng.com/Desserts/Pastries/baklava/"/>
-        <id>https://retailrng.com/Desserts/Pastries/baklava/</id>
+        <link rel="alternate" type="text/html" href="https://jamandarecipes.github.io/Desserts/Pastries/baklava/"/>
+        <id>https://jamandarecipes.github.io/Desserts/Pastries/baklava/</id>
         
-        <content type="html" xml:base="https://retailrng.com/Desserts/Pastries/baklava/">&lt;center&gt;&lt;img class=&quot;myImages&quot; id=&quot;myImg&quot; src=&quot;&#x2F;Desserts&#x2F;Pastries&#x2F;baklava.jpg&quot; alt=&quot;Baklava from summer 2024&quot; width=&quot;40%&quot;&gt;&lt;&#x2F;center&gt;
+        <content type="html" xml:base="https://jamandarecipes.github.io/Desserts/Pastries/baklava/">&lt;center&gt;&lt;img class=&quot;myImages&quot; id=&quot;myImg&quot; src=&quot;&#x2F;Desserts&#x2F;Pastries&#x2F;baklava.jpg&quot; alt=&quot;Baklava from summer 2024&quot; width=&quot;40%&quot;&gt;&lt;&#x2F;center&gt;
 &lt;h2 id=&quot;ingredients&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#ingredients&quot; aria-label=&quot;Anchor link for: ingredients&quot;&gt;Ingredients&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;span class=&quot;ingredient&quot;&gt;1&lt;&#x2F;span&gt; case of 16oz phyllo dough sheet (1 box has 2 rolls)&lt;&#x2F;li&gt;
@@ -562,10 +562,10 @@ Change Portion Size
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://retailrng.com/Drinks/Coffee & Tea/peach-iced-tea/"/>
-        <id>https://retailrng.com/Drinks/Coffee & Tea/peach-iced-tea/</id>
+        <link rel="alternate" type="text/html" href="https://jamandarecipes.github.io/Drinks/Coffee & Tea/peach-iced-tea/"/>
+        <id>https://jamandarecipes.github.io/Drinks/Coffee & Tea/peach-iced-tea/</id>
         
-        <content type="html" xml:base="https://retailrng.com/Drinks/Coffee &amp; Tea/peach-iced-tea/">&lt;h2 id=&quot;ingredients&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#ingredients&quot; aria-label=&quot;Anchor link for: ingredients&quot;&gt;Ingredients:&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+        <content type="html" xml:base="https://jamandarecipes.github.io/Drinks/Coffee &amp; Tea/peach-iced-tea/">&lt;h2 id=&quot;ingredients&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#ingredients&quot; aria-label=&quot;Anchor link for: ingredients&quot;&gt;Ingredients:&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
 &lt;h3 id=&quot;simple-syrup&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#simple-syrup&quot; aria-label=&quot;Anchor link for: simple-syrup&quot;&gt;Simple Syrup&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;span class=&quot;ingredient&quot;&gt;.75&lt;&#x2F;span&gt;c sugar&lt;&#x2F;li&gt;
@@ -614,10 +614,10 @@ Change Portion Size
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://retailrng.com/Drinks/Coffee & Tea/whipped-coffee/"/>
-        <id>https://retailrng.com/Drinks/Coffee & Tea/whipped-coffee/</id>
+        <link rel="alternate" type="text/html" href="https://jamandarecipes.github.io/Drinks/Coffee & Tea/whipped-coffee/"/>
+        <id>https://jamandarecipes.github.io/Drinks/Coffee & Tea/whipped-coffee/</id>
         
-        <content type="html" xml:base="https://retailrng.com/Drinks/Coffee &amp; Tea/whipped-coffee/">&lt;center&gt;&lt;img class=&quot;myImages&quot; id=&quot;myImg&quot; src=&quot;&#x2F;Drinks&#x2F;Coffee &amp; Tea&#x2F;whippedcoffee.jpg&quot; alt=&quot;Lemonade from summer 2025&quot; width=&quot;30%&quot;&gt;&lt;&#x2F;center&gt;
+        <content type="html" xml:base="https://jamandarecipes.github.io/Drinks/Coffee &amp; Tea/whipped-coffee/">&lt;center&gt;&lt;img class=&quot;myImages&quot; id=&quot;myImg&quot; src=&quot;&#x2F;Drinks&#x2F;Coffee &amp; Tea&#x2F;whippedcoffee.jpg&quot; alt=&quot;Lemonade from summer 2025&quot; width=&quot;30%&quot;&gt;&lt;&#x2F;center&gt;
 &lt;h2 id=&quot;ingredients&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#ingredients&quot; aria-label=&quot;Anchor link for: ingredients&quot;&gt;Ingredients:&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;span class=&quot;ingredient&quot;&gt;2&lt;&#x2F;span&gt; tablespoons hot water&lt;&#x2F;li&gt;
@@ -660,10 +660,10 @@ Change Portion Size
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://retailrng.com/Drinks/Juices/lemonade/"/>
-        <id>https://retailrng.com/Drinks/Juices/lemonade/</id>
+        <link rel="alternate" type="text/html" href="https://jamandarecipes.github.io/Drinks/Juices/lemonade/"/>
+        <id>https://jamandarecipes.github.io/Drinks/Juices/lemonade/</id>
         
-        <content type="html" xml:base="https://retailrng.com/Drinks/Juices/lemonade/">&lt;center&gt;&lt;img class=&quot;myImages&quot; id=&quot;myImg&quot; src=&quot;&#x2F;Drinks&#x2F;Juices&#x2F;lemonade.jpg&quot; alt=&quot;Lemonade from summer 2025&quot; width=&quot;60%&quot;&gt;&lt;&#x2F;center&gt;
+        <content type="html" xml:base="https://jamandarecipes.github.io/Drinks/Juices/lemonade/">&lt;center&gt;&lt;img class=&quot;myImages&quot; id=&quot;myImg&quot; src=&quot;&#x2F;Drinks&#x2F;Juices&#x2F;lemonade.jpg&quot; alt=&quot;Lemonade from summer 2025&quot; width=&quot;60%&quot;&gt;&lt;&#x2F;center&gt;
 &lt;h2 id=&quot;ingredients&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#ingredients&quot; aria-label=&quot;Anchor link for: ingredients&quot;&gt;Ingredients:&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;span class=&quot;ingredient&quot;&gt;1&lt;&#x2F;span&gt;c sugar&lt;&#x2F;li&gt;
@@ -708,10 +708,10 @@ Change Portion Size
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://retailrng.com/Drinks/Juices/limeade/"/>
-        <id>https://retailrng.com/Drinks/Juices/limeade/</id>
+        <link rel="alternate" type="text/html" href="https://jamandarecipes.github.io/Drinks/Juices/limeade/"/>
+        <id>https://jamandarecipes.github.io/Drinks/Juices/limeade/</id>
         
-        <content type="html" xml:base="https://retailrng.com/Drinks/Juices/limeade/">&lt;h2 id=&quot;ingredients&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#ingredients&quot; aria-label=&quot;Anchor link for: ingredients&quot;&gt;Ingredients:&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+        <content type="html" xml:base="https://jamandarecipes.github.io/Drinks/Juices/limeade/">&lt;h2 id=&quot;ingredients&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#ingredients&quot; aria-label=&quot;Anchor link for: ingredients&quot;&gt;Ingredients:&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;span class=&quot;ingredient&quot;&gt;12&lt;&#x2F;span&gt;Limes&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;span class=&quot;ingredient&quot;&gt;0.75&lt;&#x2F;span&gt;c honey&lt;&#x2F;li&gt;
@@ -756,10 +756,10 @@ Change Portion Size
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://retailrng.com/Red Meat/beef/burger/"/>
-        <id>https://retailrng.com/Red Meat/beef/burger/</id>
+        <link rel="alternate" type="text/html" href="https://jamandarecipes.github.io/Red Meat/beef/burger/"/>
+        <id>https://jamandarecipes.github.io/Red Meat/beef/burger/</id>
         
-        <content type="html" xml:base="https://retailrng.com/Red Meat/beef/burger/">&lt;h2 id=&quot;ingredients&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#ingredients&quot; aria-label=&quot;Anchor link for: ingredients&quot;&gt;Ingredients&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+        <content type="html" xml:base="https://jamandarecipes.github.io/Red Meat/beef/burger/">&lt;h2 id=&quot;ingredients&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#ingredients&quot; aria-label=&quot;Anchor link for: ingredients&quot;&gt;Ingredients&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;span class=&quot;ingredient&quot;&gt;1&lt;&#x2F;span&gt;lbs ground chuck&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;span class=&quot;ingredient&quot;&gt;.5&lt;&#x2F;span&gt;c Italian breadcrumbs&lt;&#x2F;li&gt;
@@ -802,10 +802,10 @@ Change Portion Size
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://retailrng.com/authors/imablisy/"/>
-        <id>https://retailrng.com/authors/imablisy/</id>
+        <link rel="alternate" type="text/html" href="https://jamandarecipes.github.io/authors/imablisy/"/>
+        <id>https://jamandarecipes.github.io/authors/imablisy/</id>
         
-        <content type="html" xml:base="https://retailrng.com/authors/imablisy/">&lt;p&gt;Co-creator of &lt;strong&gt;retailrng.com&lt;&#x2F;strong&gt;. Youtuber, Baker, Cat Parent.&lt;&#x2F;p&gt;
+        <content type="html" xml:base="https://jamandarecipes.github.io/authors/imablisy/">&lt;p&gt;Co-creator of &lt;strong&gt;retailrng.com&lt;&#x2F;strong&gt;. Youtuber, Baker, Cat Parent.&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;@imablisy&quot;&gt;Youtube&lt;&#x2F;a&gt;
 &lt;a href=&quot;https:&#x2F;&#x2F;blisy.net&quot;&gt;Website&lt;&#x2F;a&gt;
 &lt;a href=&quot;https:&#x2F;&#x2F;bsky.app&#x2F;profile&#x2F;blisy.net&quot;&gt;bsky&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
@@ -825,10 +825,10 @@ Change Portion Size
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://retailrng.com/authors/papajefe/"/>
-        <id>https://retailrng.com/authors/papajefe/</id>
+        <link rel="alternate" type="text/html" href="https://jamandarecipes.github.io/authors/papajefe/"/>
+        <id>https://jamandarecipes.github.io/authors/papajefe/</id>
         
-        <content type="html" xml:base="https://retailrng.com/authors/papajefe/">&lt;p&gt;Co-creator of &lt;strong&gt;retailrng.com&lt;&#x2F;strong&gt;. Youtuber, Spreadsheet Wizard, Glitch Enjoyer.&lt;&#x2F;p&gt;
+        <content type="html" xml:base="https://jamandarecipes.github.io/authors/papajefe/">&lt;p&gt;Co-creator of &lt;strong&gt;retailrng.com&lt;&#x2F;strong&gt;. Youtuber, Spreadsheet Wizard, Glitch Enjoyer.&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;@PapaJefeYT&quot;&gt;Youtube&lt;&#x2F;a&gt;
 &lt;a href=&quot;https:&#x2F;&#x2F;www.twitch.tv&#x2F;papa_jefe&quot;&gt;Twitch&lt;&#x2F;a&gt;
 &lt;a href=&quot;https:&#x2F;&#x2F;bsky.app&#x2F;profile&#x2F;papajefe.bsky.social&quot;&gt;bsky&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
