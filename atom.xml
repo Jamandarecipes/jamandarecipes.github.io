@@ -884,6 +884,88 @@ Change Portion Size
         
     </entry>
     <entry xml:lang="en">
+        <title>Tofu Schawarma</title>
+        <published>2025-03-22T18:20:00+00:00</published>
+        <updated>2025-03-22T18:20:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://jamandarecipes.github.io/Vegetarian/tofu/tofu-shawarma/"/>
+        <id>https://jamandarecipes.github.io/Vegetarian/tofu/tofu-shawarma/</id>
+        
+        <content type="html" xml:base="https://jamandarecipes.github.io/Vegetarian/tofu/tofu-shawarma/">&lt;center&gt;&lt;img class=&quot;myImages&quot; id=&quot;myImg&quot; src=&quot;&#x2F;Vegetarian&#x2F;tofu&#x2F;tofushawarma.jpg&quot; alt=&quot;tofu shawarma in pita from summer 2025&quot; width=&quot;60%&quot;&gt;&lt;&#x2F;center&gt;
+&lt;h2 id=&quot;ingredients&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#ingredients&quot; aria-label=&quot;Anchor link for: ingredients&quot;&gt;Ingredients&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;h4 id=&quot;tofu-marinade&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#tofu-marinade&quot; aria-label=&quot;Anchor link for: tofu-marinade&quot;&gt;Tofu &amp;amp; Marinade&lt;&#x2F;a&gt;&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&quot;ingredient&quot;&gt;1&lt;&#x2F;span&gt; Block of Tofu&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;ingredient&quot;&gt;.25&lt;&#x2F;span&gt;c Soy Suace&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;ingredient&quot;&gt;1&lt;&#x2F;span&gt; tablespoon maple syrup&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;ingredient&quot;&gt;1&lt;&#x2F;span&gt; tablespoon olive oil&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;ingredient&quot;&gt;1.5&lt;&#x2F;span&gt; tablespoons lemon juice(or half a lemon)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;ingredient&quot;&gt;1&lt;&#x2F;span&gt; teaspoon cumin&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;ingredient&quot;&gt;1&lt;&#x2F;span&gt; teaspoon paprika&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;ingredient&quot;&gt;.5&lt;&#x2F;span&gt; teaspoon cinnamon&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;bread-fillings&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#bread-fillings&quot; aria-label=&quot;Anchor link for: bread-fillings&quot;&gt;Bread &amp;amp; Fillings&lt;&#x2F;a&gt;&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Honey goat cheese&lt;&#x2F;li&gt;
+&lt;li&gt;Veggies of your choice. We used Red Onion, Tomato, Cucumber, &amp; Spinach&lt;&#x2F;li&gt;
+&lt;li&gt;Tzatziki&lt;&#x2F;li&gt;
+&lt;li&gt;Pita or Naan&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;input value=&quot;1&quot; name=&quot;method&quot; id=&quot;method&quot;&gt;
+&lt;button type &quot;button&quot; onclick=&quot;portionchange()&quot;&gt;
+Change Portion Size
+&lt;&#x2F;button&gt;
+&lt;p&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;procedure&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#procedure&quot; aria-label=&quot;Anchor link for: procedure&quot;&gt;Procedure&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;details class=&quot;md-details&quot;&gt;
+  &lt;summary class=&quot;md-details-summary&quot;&gt;Optional: Homemade Tzatziki&lt;&#x2F;summary&gt;
+  &lt;ul&gt;
+&lt;li&gt;&lt;span class=&quot;ingredient&quot;&gt;1&lt;&#x2F;span&gt;c Greek Yogurt&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;ingredient&quot;&gt;2&lt;&#x2F;span&gt; tabespoons olive oil&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;ingredient&quot;&gt;2&lt;&#x2F;span&gt; teaspoon dried dill&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;ingredient&quot;&gt;.5&lt;&#x2F;span&gt; of a large cucumber&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;ingredient&quot;&gt;.5&lt;&#x2F;span&gt; teaspoon salt&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;ol&gt;
+&lt;li&gt;Shred cucumber in cheese grater&lt;&#x2F;li&gt;
+&lt;li&gt;Mix all ingredients together in Bowl.&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;&#x2F;details&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Mix all marinade ingredients except Tofu together.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Press Tofu to drain water. &lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Shred Tofu in cheese grater. &lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Put Tofu in bowl, pour marinade on it. Let sit for at least 2 hours. &lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Set Oven &#x2F; Air Fryer to 400 F. &lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Bake Tofu until crispy. At least 35 minutes, but check every 20 or so. &lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Load up your Bread with tofu, veggies, cheese, &amp;amp; sauce &amp;amp; enjoy!&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
         <title>im a blisy ._.</title>
         <published>2025-03-22T18:20:00+00:00</published>
         <updated>2025-03-22T18:20:00+00:00</updated>
