@@ -790,6 +790,100 @@ Change Portion Size
         
     </entry>
     <entry xml:lang="en">
+        <title>Parmesan Brussels Sprouts</title>
+        <published>2025-03-22T18:20:00+00:00</published>
+        <updated>2025-03-22T18:20:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://jamandarecipes.github.io/Sides/Greens/parmesan-brussel-sprouts/"/>
+        <id>https://jamandarecipes.github.io/Sides/Greens/parmesan-brussel-sprouts/</id>
+        
+        <content type="html" xml:base="https://jamandarecipes.github.io/Sides/Greens/parmesan-brussel-sprouts/">&lt;h2 id=&quot;ingredients&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#ingredients&quot; aria-label=&quot;Anchor link for: ingredients&quot;&gt;Ingredients&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&quot;ingredient&quot;&gt;1.5&lt;&#x2F;span&gt;lbs Brussels sprouts cleaned and halved&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;ingredient&quot;&gt;.125&lt;&#x2F;span&gt; teaspoon of salt&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;ingredient&quot;&gt;.5&lt;&#x2F;span&gt; teaspoon of pepper&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;ingredient&quot;&gt;3&lt;&#x2F;span&gt; tablespoons olive oil&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;ingredient&quot;&gt;.5&lt;&#x2F;span&gt;c shredded parmesan cheese&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;ingredient&quot;&gt;1&lt;&#x2F;span&gt; teaspoon garlic powder&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;ingredient&quot;&gt;.5&lt;&#x2F;span&gt; teaspoon onion powder&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;ingredient&quot;&gt;.5&lt;&#x2F;span&gt; teaspoon Italian Seasonings (or whatever you like)&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;input value=&quot;1&quot; name=&quot;method&quot; id=&quot;method&quot;&gt;
+&lt;button type &quot;button&quot; onclick=&quot;portionchange()&quot;&gt;
+Change Portion Size
+&lt;&#x2F;button&gt;
+&lt;p&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;procedure&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#procedure&quot; aria-label=&quot;Anchor link for: procedure&quot;&gt;Procedure&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Preheat air fryer to 400F&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Toss all of the ingredients together in a bowl. And spread out on to the airfryer basket.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Bake for about 12-15mins, until cooked through and have a crispy exterior. Toss once halfway through. Serve immediately.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;p&gt;Optional: Bake in a 400F oven for 15-20mins, place cut side of brussels face down. &lt;&#x2F;p&gt;
+&lt;p&gt;Yield: &lt;span class=&quot;ingredient&quot;&gt;2&lt;&#x2F;span&gt; Servings of Brussies&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Pepcorn</title>
+        <published>2025-03-22T18:20:00+00:00</published>
+        <updated>2025-03-22T18:20:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://jamandarecipes.github.io/Snacks/Snacks/pepcorn/"/>
+        <id>https://jamandarecipes.github.io/Snacks/Snacks/pepcorn/</id>
+        
+        <content type="html" xml:base="https://jamandarecipes.github.io/Snacks/Snacks/pepcorn/">&lt;h2 id=&quot;ingredients&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#ingredients&quot; aria-label=&quot;Anchor link for: ingredients&quot;&gt;Ingredients&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&quot;ingredient&quot;&gt;.5&lt;&#x2F;span&gt;c popcorn kernels (trust the process, this will make a lot of popcorn)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;ingredient&quot;&gt;.5&lt;&#x2F;span&gt; teaspoon theater salt(use a spice grinder to turn salt into powder)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;ingredient&quot;&gt;3&lt;&#x2F;span&gt;  tablespoons vegetable oil (neutral flavored oil, like vegetable)&lt;&#x2F;li&gt;
+&lt;li&gt;Optional: Kernel Season’s, or homemade seasonings to garnish&lt;&#x2F;li&gt;
+&lt;li&gt;Optional: Gochujang&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;input value=&quot;1&quot; name=&quot;method&quot; id=&quot;method&quot;&gt;
+&lt;button type &quot;button&quot; onclick=&quot;portionchange()&quot;&gt;
+Change Portion Size
+&lt;&#x2F;button&gt;
+&lt;p&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;procedure&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#procedure&quot; aria-label=&quot;Anchor link for: procedure&quot;&gt;Procedure&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Place the popcorn kernel, salt, and oil into a large, high walled pot, or use a wok. Mix to ensure the salt, seasoning, or Gochujang fully dissolves and the kernels are fully covered in oil. Cover with a lid or aluminum foil (poke vent holes in aluminum). &lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Turn heat to high and let sit until the first pop. Start moving the pot to swirl and agitate the kernels, if using a lid, hold on to the lid! Continue motion until there are 4-5 seconds between pops. Turn off heat and let sit until all popping has stopped, about 30-60 seconds.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Serve in a large bowl. Optional: top with Kernel’s Season’s, or homemade powders. &lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;p&gt;Yield: &lt;span class=&quot;ingredient&quot;&gt;2&lt;&#x2F;span&gt; Servings of Popcorn&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
         <title>im a blisy ._.</title>
         <published>2025-03-22T18:20:00+00:00</published>
         <updated>2025-03-22T18:20:00+00:00</updated>

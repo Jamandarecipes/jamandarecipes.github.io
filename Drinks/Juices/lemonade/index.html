@@ -433,19 +433,23 @@ Change Portion Size
 				mult = document.getElementById("method").value;
 
 				for (let i = 0; i < collection.length; i++) {
+					//loop through collection of ingredients
 					result = math.multiply(array[i], mult);
+					//if the current ingredient is not an integer, convert into a fraction
 					if(Number.isInteger(result)){
 					
 					collection[i].innerHTML = result;
 
 
 					}else{
+					//check if the fraction needs to be mixed or just a fraction
 					fraction = result % 1;
 					fraction = math.fraction(fraction);
 					result = math.floor(result);
 					fraction = math.format(fraction, {fraction: 'ratio'});
 					
 						if(result == 0){
+						//if result is 0, the fraction has no number attached.
 					collection[i].innerHTML = fraction;
 					//console.log(math.format(fraction, {fraction: 'ratio'}));
 					//console.log(result);
