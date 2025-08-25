@@ -839,6 +839,82 @@ Change Portion Size
         
     </entry>
     <entry xml:lang="en">
+        <title>Red Sauce</title>
+        <published>2025-03-22T18:20:00+00:00</published>
+        <updated>2025-03-22T18:20:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://jamandarecipes.github.io/Sides/Sauces/red-sauce/"/>
+        <id>https://jamandarecipes.github.io/Sides/Sauces/red-sauce/</id>
+        
+        <content type="html" xml:base="https://jamandarecipes.github.io/Sides/Sauces/red-sauce/">&lt;h2 id=&quot;ingredients&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#ingredients&quot; aria-label=&quot;Anchor link for: ingredients&quot;&gt;Ingredients&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&quot;ingredient&quot;&gt;6&lt;&#x2F;span&gt; roma or &lt;span class=&quot;ingredient&quot;&gt;3&lt;&#x2F;span&gt; large heirloom tomatoes&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;ingredient&quot;&gt;1&lt;&#x2F;span&gt; medium white onion&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;ingredient&quot;&gt;6&lt;&#x2F;span&gt; cloves garlic (minimum)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;ingredient&quot;&gt;.5&lt;&#x2F;span&gt; tube tomato paste(optional, but adds some more flavor).&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;ingredient&quot;&gt;1&lt;&#x2F;span&gt; teaspoon of salt&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;ingredient&quot;&gt;.5&lt;&#x2F;span&gt; teaspoon of pepper&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;ingredient&quot;&gt;.5&lt;&#x2F;span&gt;c shredded parmesan cheese&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;ingredient&quot;&gt;.5&lt;&#x2F;span&gt; teaspoon Italian Seasonings (Oregano, Parsely, whatever you have)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;ingredient&quot;&gt;2&lt;&#x2F;span&gt; teaspoons better than bouillon or &lt;span class=&quot;ingredient&quot;&gt;1&lt;&#x2F;span&gt; bouillon cube (any flavor)&lt;&#x2F;li&gt;
+&lt;li&gt;Enough cooking olive oil to thinly coat bottom of pan&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;All ingredients are to taste. Feel free to play around with this one.&lt;&#x2F;p&gt;
+&lt;input value=&quot;1&quot; name=&quot;method&quot; id=&quot;method&quot;&gt;
+&lt;button type &quot;button&quot; onclick=&quot;portionchange()&quot;&gt;
+Change Portion Size
+&lt;&#x2F;button&gt;
+&lt;p&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;procedure&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#procedure&quot; aria-label=&quot;Anchor link for: procedure&quot;&gt;Procedure&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Thinly slice garlic (do not crush or mince, slicing preserves most flavor).&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Dice onion.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Coat bottom of pan with olive oil, saute onion &amp;amp; garlic until aromatic on medium heat.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;While onion &amp;amp; garlic are cooking, cut tomato into chunks.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;When onion &amp;amp; garlic are ready (3 to 5 min), put tomato paste into pot &amp;amp; cook for another minute while mixing. &lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Add chunked tomato into pot.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Crush tomatoes with immersion blender until liquified.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Add better than bouillon or bouillon. (Do not mix them with water as usual, the tomatoes have enough of that.)&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Cook sauce down on medium-low heat until desired consistency. Pizza sauce should be very thick, reduced by 60 to 70% of initial size.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Once sauce is almost ready, add herbs.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;details class=&quot;md-details&quot;&gt;
+  &lt;summary class=&quot;md-details-summary&quot;&gt;Variation: San Marzano&lt;&#x2F;summary&gt;
+  &lt;p&gt;Use &lt;span class=&quot;ingredient&quot;&gt;2&lt;&#x2F;span&gt; large cans of San Marzano hand crushed tomatoes, including their juice, instead of Tomato Sauce.&lt;&#x2F;p&gt;
+&lt;&#x2F;details&gt;
+&lt;p&gt;Yield: &lt;span class=&quot;ingredient&quot;&gt;4&lt;&#x2F;span&gt; Servings of Tomato Sauce.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
         <title>Pepcorn</title>
         <published>2025-03-22T18:20:00+00:00</published>
         <updated>2025-03-22T18:20:00+00:00</updated>
