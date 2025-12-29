@@ -550,6 +550,115 @@ Change Portion Size
         
     </entry>
     <entry xml:lang="en">
+        <title>Cinnamon Rolls</title>
+        <published>2025-03-22T18:20:00+00:00</published>
+        <updated>2025-03-22T18:20:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://jamandarecipes.github.io/Desserts/Pastries/cinnamonrolls/"/>
+        <id>https://jamandarecipes.github.io/Desserts/Pastries/cinnamonrolls/</id>
+        
+        <content type="html" xml:base="https://jamandarecipes.github.io/Desserts/Pastries/cinnamonrolls/">&lt;h2 id=&quot;ingredients&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#ingredients&quot; aria-label=&quot;Anchor link for: ingredients&quot;&gt;Ingredients&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;h3 id=&quot;dough&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#dough&quot; aria-label=&quot;Anchor link for: dough&quot;&gt;Dough&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&quot;ingredient&quot;&gt;.5&lt;&#x2F;span&gt;c melted butter&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;ingredient&quot;&gt;2&lt;&#x2F;span&gt;c whole milk, warm to the touch&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;ingredient&quot;&gt;.5&lt;&#x2F;span&gt;c granulated sugar&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;ingredient&quot;&gt;2.25&lt;&#x2F;span&gt; teaspoons active dry yeast&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;ingredient&quot;&gt;2&lt;&#x2F;span&gt; teaspoons salt&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;ingredient&quot;&gt;5&lt;&#x2F;span&gt;c flour, divided&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;filling&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#filling&quot; aria-label=&quot;Anchor link for: filling&quot;&gt;Filling&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&quot;ingredient&quot;&gt;.75&lt;&#x2F;span&gt;c butter, softened&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;ingredient&quot;&gt;.75&lt;&#x2F;span&gt;c light brown sugar&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;ingredient&quot;&gt;2&lt;&#x2F;span&gt; tablespoons ground cinnamon&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;frosting&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#frosting&quot; aria-label=&quot;Anchor link for: frosting&quot;&gt;Frosting&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&quot;ingredient&quot;&gt;8&lt;&#x2F;span&gt;oz cream cheese, softened&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;ingredient&quot;&gt;4&lt;&#x2F;span&gt; tablespoons butter, melted&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;ingredient&quot;&gt;4&lt;&#x2F;span&gt; tablespoons whole milk&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;ingredient&quot;&gt;2&lt;&#x2F;span&gt; teaspoons vanilla&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;ingredient&quot;&gt;2&lt;&#x2F;span&gt;c powdered sugar&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;input value=&quot;1&quot; name=&quot;method&quot; id=&quot;method&quot;&gt;
+&lt;button type &quot;button&quot; onclick=&quot;portionchange()&quot;&gt;
+Change Portion Size
+&lt;&#x2F;button&gt;
+&lt;p&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;procedure&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#procedure&quot; aria-label=&quot;Anchor link for: procedure&quot;&gt;Procedure&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Generously butter 9x13 rectangular pan.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;In a large bowl, whisk together warm milk, melted butter, and granulated sugar. The mixture should be just warm, registering between 100-110˚F (37-43˚C). If it is hotter, allow to cool slightly.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Sprinkle the yeast evenly over the warm mixture and let set for 1 minute.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Add 4 cups (500g) of all-purpose flour to the milk mixture and mix with a wooden spoon until just combined.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Cover the bowl with a towel or plastic wrap and set in a warm place to rise for 1 hour.After 1 hour, the dough should have nearly doubled in size.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Remove the towel and add an additional ¾ cup (95g) of flour, the baking powder, and salt. Stir well, then turn out onto a well-floured surface.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Knead the dough lightly, adding additional flour as necessary, until the dough just loses its stickiness and does not stick to the surface.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Roll the dough out into a large rectangle, about ½-inch (1 cm) thick. Fix corners to make sure they are sharp and even.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Spread the softened butter evenly over the dough.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Sprinkle evenly with brown sugar and a generous sprinkling of cinnamon.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Press the mixture into the butter.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Roll up the dough, forming a log, and pinch the seam closed. Place seam-side down. Trim off any unevenness on either end.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Cut the log in half, then divide into 12 even pieces. Place into pan 4x3 evenly spaced.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Cover with plastic wrap and place in a warm place to rise for 30 minutes.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Preheat oven to 350˚F (180˚C).&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;To prepare the frosting. In a medium-size mixing bowl, whisk together cream cheese, butter, whole milk, vanilla, and powdered sugar, until smooth.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Remove plastic wrap. Bake the cinnamon rolls in a preheated oven for 25-30 minutes, until golden brown.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;While still warm, drizzle evenly with frosting.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;details class=&quot;md-details&quot;&gt;
+  &lt;summary class=&quot;md-details-summary&quot;&gt;Variation: Cookes &amp; Cream&lt;&#x2F;summary&gt;
+  &lt;p&gt;Substitute cinnamon filling with crushed oreo cookies and butter.&lt;&#x2F;p&gt;
+&lt;&#x2F;details&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
         <title>Peach Iced Tea</title>
         <published>2025-03-22T18:20:00+00:00</published>
         <updated>2025-03-22T18:20:00+00:00</updated>
@@ -744,6 +853,76 @@ Change Portion Size
         
     </entry>
     <entry xml:lang="en">
+        <title>Fried Chicken</title>
+        <published>2025-03-22T18:20:00+00:00</published>
+        <updated>2025-03-22T18:20:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://jamandarecipes.github.io/Poultry/chicken/friedchicken/"/>
+        <id>https://jamandarecipes.github.io/Poultry/chicken/friedchicken/</id>
+        
+        <content type="html" xml:base="https://jamandarecipes.github.io/Poultry/chicken/friedchicken/">&lt;h2 id=&quot;ingredients&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#ingredients&quot; aria-label=&quot;Anchor link for: ingredients&quot;&gt;Ingredients&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;h3 id=&quot;chicken&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#chicken&quot; aria-label=&quot;Anchor link for: chicken&quot;&gt;Chicken&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&quot;ingredient&quot;&gt;1&lt;&#x2F;span&gt;lbs chicken breast, skinless boneless, tenderloin, or boneless thighs&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;buttermilk-marinade&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#buttermilk-marinade&quot; aria-label=&quot;Anchor link for: buttermilk-marinade&quot;&gt;Buttermilk Marinade&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&quot;ingredient&quot;&gt;.75&lt;&#x2F;span&gt;c buttermilk&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;ingredient&quot;&gt;1.5&lt;&#x2F;span&gt; teaspoon salt&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;ingredient&quot;&gt;1&lt;&#x2F;span&gt; large egg&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;breading&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#breading&quot; aria-label=&quot;Anchor link for: breading&quot;&gt;Breading&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&quot;ingredient&quot;&gt;1.5&lt;&#x2F;span&gt;c all purpose flour&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;ingredient&quot;&gt;.5&lt;&#x2F;span&gt;c cornstarch (makes it crispy!)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;ingredient&quot;&gt;1&lt;&#x2F;span&gt; teaspoon salt&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;ingredient&quot;&gt;.5&lt;&#x2F;span&gt; teaspoon celery salt&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;ingredient&quot;&gt;1&lt;&#x2F;span&gt; teaspoon black pepper&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;ingredient&quot;&gt;1&lt;&#x2F;span&gt; teaspoon sweet paprika&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;ingredient&quot;&gt;1&lt;&#x2F;span&gt; teaspoon dried thyme, crushed with fingers to make it finer&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;ingredient&quot;&gt;1&lt;&#x2F;span&gt; teaspoon dried oregano, crushed with fdingers to make it finer&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;ingredient&quot;&gt;.75&lt;&#x2F;span&gt; teaspoon onion powder&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;ingredient&quot;&gt;2&lt;&#x2F;span&gt; teaspoon garlic powder&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;ingredient&quot;&gt;.5&lt;&#x2F;span&gt; teaspoon mustard powder&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;ingredient&quot;&gt;.5&lt;&#x2F;span&gt; teaspoon ginger powder&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;ingredient&quot;&gt;.25&lt;&#x2F;span&gt; teaspoon cayanne pepper, optional (tiniest background warmth, doesn&#x27;t make it spicy)&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;input value=&quot;1&quot; name=&quot;method&quot; id=&quot;method&quot;&gt;
+&lt;button type &quot;button&quot; onclick=&quot;portionchange()&quot;&gt;
+Change Portion Size
+&lt;&#x2F;button&gt;
+&lt;p&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;procedure&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#procedure&quot; aria-label=&quot;Anchor link for: procedure&quot;&gt;Procedure&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Mix buttermilk ingredients together.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Marinade chicken in buttermilk for at least 2 hours.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;While chicken is marinading, mix breading together in a bowl.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Once chicken is done marinading, preheat oil to 350F. &lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Toss chicken into breading, fry until cooked to safe internal temp.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;p&gt;Yield: &lt;span class=&quot;ingredient&quot;&gt;2.5&lt;&#x2F;span&gt; Servings of fried chicken&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
         <title>Burger</title>
         <published>2025-03-22T18:20:00+00:00</published>
         <updated>2025-03-22T18:20:00+00:00</updated>
@@ -786,55 +965,6 @@ Change Portion Size
 &lt;&#x2F;li&gt;
 &lt;&#x2F;ol&gt;
 &lt;p&gt;Yield: &lt;span class=&quot;ingredient&quot;&gt;4&lt;&#x2F;span&gt; Quarter Pound Burger Patties&lt;&#x2F;p&gt;
-</content>
-        
-    </entry>
-    <entry xml:lang="en">
-        <title>Parmesan Brussels Sprouts</title>
-        <published>2025-03-22T18:20:00+00:00</published>
-        <updated>2025-03-22T18:20:00+00:00</updated>
-        
-        <author>
-          <name>
-            
-              Unknown
-            
-          </name>
-        </author>
-        
-        <link rel="alternate" type="text/html" href="https://jamandarecipes.github.io/Sides/Greens/parmesan-brussel-sprouts/"/>
-        <id>https://jamandarecipes.github.io/Sides/Greens/parmesan-brussel-sprouts/</id>
-        
-        <content type="html" xml:base="https://jamandarecipes.github.io/Sides/Greens/parmesan-brussel-sprouts/">&lt;h2 id=&quot;ingredients&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#ingredients&quot; aria-label=&quot;Anchor link for: ingredients&quot;&gt;Ingredients&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;span class=&quot;ingredient&quot;&gt;1.5&lt;&#x2F;span&gt;lbs Brussels sprouts cleaned and halved&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;span class=&quot;ingredient&quot;&gt;.125&lt;&#x2F;span&gt; teaspoon of salt&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;span class=&quot;ingredient&quot;&gt;.5&lt;&#x2F;span&gt; teaspoon of pepper&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;span class=&quot;ingredient&quot;&gt;3&lt;&#x2F;span&gt; tablespoons olive oil&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;span class=&quot;ingredient&quot;&gt;.5&lt;&#x2F;span&gt;c shredded parmesan cheese&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;span class=&quot;ingredient&quot;&gt;1&lt;&#x2F;span&gt; teaspoon garlic powder&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;span class=&quot;ingredient&quot;&gt;.5&lt;&#x2F;span&gt; teaspoon onion powder&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;span class=&quot;ingredient&quot;&gt;.5&lt;&#x2F;span&gt; teaspoon Italian Seasonings (or whatever you like)&lt;&#x2F;li&gt;
-&lt;&#x2F;ul&gt;
-&lt;input value=&quot;1&quot; name=&quot;method&quot; id=&quot;method&quot;&gt;
-&lt;button type &quot;button&quot; onclick=&quot;portionchange()&quot;&gt;
-Change Portion Size
-&lt;&#x2F;button&gt;
-&lt;p&gt;&lt;&#x2F;p&gt;
-&lt;h2 id=&quot;procedure&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#procedure&quot; aria-label=&quot;Anchor link for: procedure&quot;&gt;Procedure&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;Preheat air fryer to 400F&lt;&#x2F;p&gt;
-&lt;&#x2F;li&gt;
-&lt;li&gt;
-&lt;p&gt;Toss all of the ingredients together in a bowl. And spread out on to the airfryer basket.&lt;&#x2F;p&gt;
-&lt;&#x2F;li&gt;
-&lt;li&gt;
-&lt;p&gt;Bake for about 12-15mins, until cooked through and have a crispy exterior. Toss once halfway through. Serve immediately.&lt;&#x2F;p&gt;
-&lt;&#x2F;li&gt;
-&lt;&#x2F;ol&gt;
-&lt;p&gt;Optional: Bake in a 400F oven for 15-20mins, place cut side of brussels face down. &lt;&#x2F;p&gt;
-&lt;p&gt;Yield: &lt;span class=&quot;ingredient&quot;&gt;2&lt;&#x2F;span&gt; Servings of Brussies&lt;&#x2F;p&gt;
 </content>
         
     </entry>
@@ -910,6 +1040,103 @@ Change Portion Size
   &lt;p&gt;Use &lt;span class=&quot;ingredient&quot;&gt;2&lt;&#x2F;span&gt; large cans of San Marzano hand crushed tomatoes, including their juice, instead of Tomato Sauce.&lt;&#x2F;p&gt;
 &lt;&#x2F;details&gt;
 &lt;p&gt;Yield: &lt;span class=&quot;ingredient&quot;&gt;4&lt;&#x2F;span&gt; Servings of Tomato Sauce.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Parmesan Brussels Sprouts</title>
+        <published>2025-03-22T18:20:00+00:00</published>
+        <updated>2025-03-22T18:20:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://jamandarecipes.github.io/Sides/Veggies/parmesan-brussel-sprouts/"/>
+        <id>https://jamandarecipes.github.io/Sides/Veggies/parmesan-brussel-sprouts/</id>
+        
+        <content type="html" xml:base="https://jamandarecipes.github.io/Sides/Veggies/parmesan-brussel-sprouts/">&lt;h2 id=&quot;ingredients&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#ingredients&quot; aria-label=&quot;Anchor link for: ingredients&quot;&gt;Ingredients&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&quot;ingredient&quot;&gt;1.5&lt;&#x2F;span&gt;lbs Brussels sprouts cleaned and halved&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;ingredient&quot;&gt;.125&lt;&#x2F;span&gt; teaspoon of salt&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;ingredient&quot;&gt;.5&lt;&#x2F;span&gt; teaspoon of pepper&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;ingredient&quot;&gt;3&lt;&#x2F;span&gt; tablespoons olive oil&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;ingredient&quot;&gt;.5&lt;&#x2F;span&gt;c shredded parmesan cheese&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;ingredient&quot;&gt;1&lt;&#x2F;span&gt; teaspoon garlic powder&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;ingredient&quot;&gt;.5&lt;&#x2F;span&gt; teaspoon onion powder&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;ingredient&quot;&gt;.5&lt;&#x2F;span&gt; teaspoon Italian Seasonings (or whatever you like)&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;input value=&quot;1&quot; name=&quot;method&quot; id=&quot;method&quot;&gt;
+&lt;button type &quot;button&quot; onclick=&quot;portionchange()&quot;&gt;
+Change Portion Size
+&lt;&#x2F;button&gt;
+&lt;p&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;procedure&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#procedure&quot; aria-label=&quot;Anchor link for: procedure&quot;&gt;Procedure&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Preheat air fryer to 400F&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Toss all of the ingredients together in a bowl. And spread out on to the airfryer basket.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Bake for about 12-15mins, until cooked through and have a crispy exterior. Toss once halfway through. Serve immediately.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;p&gt;Optional: Bake in a 400F oven for 15-20mins, place cut side of brussels face down. &lt;&#x2F;p&gt;
+&lt;p&gt;Yield: &lt;span class=&quot;ingredient&quot;&gt;2&lt;&#x2F;span&gt; Servings of Brussies&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Street Corn Bake</title>
+        <published>2025-03-22T18:20:00+00:00</published>
+        <updated>2025-03-22T18:20:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://jamandarecipes.github.io/Sides/Veggies/street-corn-bake/"/>
+        <id>https://jamandarecipes.github.io/Sides/Veggies/street-corn-bake/</id>
+        
+        <content type="html" xml:base="https://jamandarecipes.github.io/Sides/Veggies/street-corn-bake/">&lt;h2 id=&quot;ingredients&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#ingredients&quot; aria-label=&quot;Anchor link for: ingredients&quot;&gt;Ingredients&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&quot;ingredient&quot;&gt;2&lt;&#x2F;span&gt;lbs bag frozen corn, thawed and roasted&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;ingredient&quot;&gt;.333333333333333333&lt;&#x2F;span&gt;c sour cream&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;ingredient&quot;&gt;.333333333333333333&lt;&#x2F;span&gt;c mayonnaise&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;ingredient&quot;&gt;10&lt;&#x2F;span&gt;oz queso fresco&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;ingredient&quot;&gt;1&lt;&#x2F;span&gt; teaspoon garlic powder&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;ingredient&quot;&gt;2&lt;&#x2F;span&gt; teaspoon tajin&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;ingredient&quot;&gt;.25&lt;&#x2F;span&gt; teaspoon paprika&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;ingredient&quot;&gt;1&lt;&#x2F;span&gt; lime&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;input value=&quot;1&quot; name=&quot;method&quot; id=&quot;method&quot;&gt;
+&lt;button type &quot;button&quot; onclick=&quot;portionchange()&quot;&gt;
+Change Portion Size
+&lt;&#x2F;button&gt;
+&lt;p&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;procedure&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#procedure&quot; aria-label=&quot;Anchor link for: procedure&quot;&gt;Procedure&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Preheat oven to 350F&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Roast corn in pan using butter or oil until slightly browned&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Bake for 20 minutes if using hot roasted corn. Bake time will be longer if using cold or frozen corn.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;p&gt;Yield: &lt;span class=&quot;ingredient&quot;&gt;4&lt;&#x2F;span&gt; Servings of Street Corn&lt;&#x2F;p&gt;
 </content>
         
     </entry>
