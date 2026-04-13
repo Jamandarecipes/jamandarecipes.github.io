@@ -868,6 +868,14 @@ Change Portion Size
   &lt;summary class=&quot;md-details-summary&quot;&gt;Variation: Strawberry Lemonade&lt;&#x2F;summary&gt;
   &lt;p&gt;Strawberry lemonade: puree 2lbs of strawberries, mix into lemonade, and strain out the pulp.&lt;&#x2F;p&gt;
 &lt;&#x2F;details&gt;
+&lt;details class=&quot;md-details&quot;&gt;
+  &lt;summary class=&quot;md-details-summary&quot;&gt;Variation: Sugar Free Lemonade&lt;&#x2F;summary&gt;
+  &lt;p&gt;Make simple syrup from Stevia instead of Sugar. Just as good :)&lt;&#x2F;p&gt;
+&lt;&#x2F;details&gt;
+&lt;details class=&quot;md-details&quot;&gt;
+  &lt;summary class=&quot;md-details-summary&quot;&gt;Variation: Guava Lemonade&lt;&#x2F;summary&gt;
+  &lt;p&gt;Guava Lemonade: Make simple syrup out of boiling water and cubed guava paste. Add no other sweetener.&lt;&#x2F;p&gt;
+&lt;&#x2F;details&gt;
 </content>
         
     </entry>
@@ -1294,6 +1302,107 @@ Change Portion Size
 &lt;&#x2F;li&gt;
 &lt;&#x2F;ol&gt;
 &lt;p&gt;Yield: &lt;span class=&quot;ingredient&quot;&gt;2&lt;&#x2F;span&gt; Servings of Popcorn&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Black Bean Enchiladas</title>
+        <published>2025-03-22T18:20:00+00:00</published>
+        <updated>2025-03-22T18:20:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://jamandarecipes.github.io/Vegetarian/beans/blackbean-enchiladas/"/>
+        <id>https://jamandarecipes.github.io/Vegetarian/beans/blackbean-enchiladas/</id>
+        
+        <content type="html" xml:base="https://jamandarecipes.github.io/Vegetarian/beans/blackbean-enchiladas/">&lt;center&gt;&lt;img class=&quot;myImages&quot; id=&quot;myImg&quot; src=&quot;&#x2F;Vegetarian&#x2F;beans&#x2F;blackbean.jpg&quot; alt=&quot;enchiladas from spring 2026&quot; width=&quot;60%&quot;&gt;&lt;&#x2F;center&gt;
+&lt;h2 id=&quot;ingredients&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#ingredients&quot; aria-label=&quot;Anchor link for: ingredients&quot;&gt;Ingredients&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;h4 id=&quot;filling&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#filling&quot; aria-label=&quot;Anchor link for: filling&quot;&gt;Filling&lt;&#x2F;a&gt;&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&quot;ingredient&quot;&gt;1&lt;&#x2F;span&gt; tablespoon Olive Oil&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;ingredient&quot;&gt;.5&lt;&#x2F;span&gt; onion, chopped&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;ingredient&quot;&gt;1&lt;&#x2F;span&gt; small red bell pepper, chopped&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;ingredient&quot;&gt;1&lt;&#x2F;span&gt; can vegetarian refried black beans&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;ingredient&quot;&gt;1&lt;&#x2F;span&gt; can corn kernels&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;ingredient&quot;&gt;2&lt;&#x2F;span&gt; oz creamcheese&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;ingredient&quot;&gt;.5&lt;&#x2F;span&gt; teaspoon ground cumin&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;ingredient&quot;&gt;2&lt;&#x2F;span&gt; teaspoon salt, pepper, adobo (to taste)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;ingredient&quot;&gt;1&lt;&#x2F;span&gt; c cilantro&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;ingredient&quot;&gt;1&lt;&#x2F;span&gt; c tomato salsa (spice to taste, we use medium)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;ingredient&quot;&gt;.5&lt;&#x2F;span&gt; c veggie broth&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;ingredient&quot;&gt;.5&lt;&#x2F;span&gt; lime, juiced&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;ingredient&quot;&gt;4&lt;&#x2F;span&gt; cloves garlic (or more)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;ingredient&quot;&gt;2&lt;&#x2F;span&gt; teaspoon dried oregano&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;ingredient&quot;&gt;1&lt;&#x2F;span&gt; package of tortillas&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;sauce&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#sauce&quot; aria-label=&quot;Anchor link for: sauce&quot;&gt;Sauce&lt;&#x2F;a&gt;&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&quot;ingredient&quot;&gt;1&lt;&#x2F;span&gt; c cilantro&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;ingredient&quot;&gt;1&lt;&#x2F;span&gt; c tomato salsa (spice to taste, we use medium)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;ingredient&quot;&gt;.5&lt;&#x2F;span&gt; c veggie broth&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;ingredient&quot;&gt;.5&lt;&#x2F;span&gt; lime, juiced&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;ingredient&quot;&gt;4&lt;&#x2F;span&gt; cloves garlic (or more)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;ingredient&quot;&gt;2&lt;&#x2F;span&gt; teaspoon dried oregano&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;ingredient&quot;&gt;1&lt;&#x2F;span&gt; package of tortillas&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;garnish&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#garnish&quot; aria-label=&quot;Anchor link for: garnish&quot;&gt;Garnish&lt;&#x2F;a&gt;&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&quot;ingredient&quot;&gt;1&lt;&#x2F;span&gt; lb cheddar cheese&lt;&#x2F;li&gt;
+&lt;li&gt;Sour Cream&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;ingredient&quot;&gt;1&lt;&#x2F;span&gt; avocado&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;ingredient&quot;&gt;1&lt;&#x2F;span&gt; diced tomato&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;input value=&quot;1&quot; name=&quot;method&quot; id=&quot;method&quot;&gt;
+&lt;button type &quot;button&quot; onclick=&quot;portionchange()&quot;&gt;
+Change Portion Size
+&lt;&#x2F;button&gt;
+&lt;p&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;procedure&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#procedure&quot; aria-label=&quot;Anchor link for: procedure&quot;&gt;Procedure&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Preheat oven to 375 (conventional). &lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Spray 9 x 13 inch baking dish.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;In skillet over medium heat, cook onion and pepper until tender.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Add refried beans, corn, cream cheese, and spices. Simmer until mixture is hot, about 5 minutes. Then remove from heat.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Place Cilantro, salsa, veggie broth, lime juice, garlic, and oregano in a food processor. Blend until smooth. &lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Spread 1&#x2F;3rd of the cilantro sauce into prepared 9 x 13 pan.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Spread bean mixture down center of each torilla, and sprinkle some cheese on top. Then roll tortilla and arrange enchiladas in prepared baking dish, seem side down. &lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Pour remaining sauce over enchiladas and sprinle remaining cheese on top.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Bake until cheese is melted and sauce is bubblky, 20-30 minutes. &lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Garnish with avocado, tomato, and sour cream. &lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;details class=&quot;md-details&quot;&gt;
+  &lt;summary class=&quot;md-details-summary&quot;&gt;Optional: Protein Maxxer&lt;&#x2F;summary&gt;
+  &lt;ol&gt;
+&lt;li&gt;Replace cream cheese in the filling with cottage cheese.&lt;&#x2F;li&gt;
+&lt;li&gt;If not vegetarian, add 2 shredded chicken breasts to bean filling.&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;&#x2F;details&gt;
 </content>
         
     </entry>
